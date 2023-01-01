@@ -9,7 +9,7 @@
 
 #container{
     height: 100vh;
-    background-image: url("../images/bg-img.jpg");
+    background-image: url("../images/triangles-1430105.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding: 50px 0px;
@@ -59,7 +59,7 @@
     }
 }
 .wrapper{
-    background-color: rgb(139, 170, 183,0.36);
+    background-color: rgba(46, 66, 75, 0.858);
     position: absolute;
     width: 800px;
     margin: 0px auto; 
@@ -129,7 +129,7 @@
 .intro{
     text-align: center;
     height: 100%;
-    background-color: rgb(139, 170, 183,0.36);
+    background-color: rgba(32, 39, 41, 0.866);
     color: var(--text-color);
     padding: 120px 40px;
     display: flex;
@@ -398,7 +398,7 @@ text-align: justify;
 }
 
 #projects .card img{
-    transition-duration: 1s ;
+    transition-duration: 1s;
 }
 
 #projects .card:hover img{
